@@ -1,0 +1,12 @@
+# log_file=/home/will/nmt_attention_model/log_1536594755
+# Start step 0, lr 1, Mon Sep 10 23:52:36 2018
+  step 100 lr 1 step-time 0.15s wps 5.13K ppl 930.05 gN 54.75 bleu 0.00, Mon Sep 10 23:52:53 2018
+  step 200 lr 1 step-time 0.12s wps 6.34K ppl 263.04 gN 11.33 bleu 0.00, Mon Sep 10 23:53:07 2018
+  step 300 lr 1 step-time 0.12s wps 6.42K ppl 152.49 gN 8.84 bleu 0.00, Mon Sep 10 23:53:21 2018
+  step 400 lr 1 step-time 0.14s wps 5.45K ppl 100.48 gN 9.23 bleu 0.00, Mon Sep 10 23:53:37 2018
+  step 500 lr 1 step-time 0.12s wps 6.06K ppl 55.63 gN 11.93 bleu 0.00, Mon Sep 10 23:53:51 2018
+  step 600 lr 1 step-time 0.12s wps 6.05K ppl 30.97 gN 14.09 bleu 0.00, Mon Sep 10 23:54:06 2018
+  step 700 lr 1 step-time 0.12s wps 6.34K ppl 16.43 gN 15.89 bleu 0.00, Mon Sep 10 23:54:20 2018
+  step 800 lr 1 step-time 0.13s wps 5.87K ppl 9.27 gN 16.84 bleu 0.00, Mon Sep 10 23:54:36 2018
+  step 900 lr 1 step-time 0.13s wps 5.68K ppl 5.69 gN 17.10 bleu 0.00, Mon Sep 10 23:54:51 2018
+  step 1000 lr 1 step-time 0.12s wps 6.40K ppl 3.80 gN 16.32 bleu 0.00, Mon Sep 10 23:55:06 2018
